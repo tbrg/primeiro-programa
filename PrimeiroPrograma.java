@@ -3,5 +3,7 @@ class PrimeiroPrograma {
         System.out.println("Meu primeiro programa em Java!");
 
         System.out.println("Colaborador: Andrei Braga");
+
+        System.out.println("Colaborador: Frajola Jola");
     }
 }
