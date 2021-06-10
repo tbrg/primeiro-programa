@@ -8,6 +8,8 @@ class PrimeiroPrograma {
         
         System.out.println("Colaborador: Jose Nelson");
 
+        System.out.println("Colaborador: Diogo Maciel da Cunha");
+
         System.out.println("Colaborador: Ismael Bortoluzzi");
 
         System.out.println("Colaborador: Alexandre Souza");
