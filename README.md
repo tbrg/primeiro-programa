@@ -1,1 +1,1 @@
-# primeiro-programa
+Um primeiro programa em Java.
