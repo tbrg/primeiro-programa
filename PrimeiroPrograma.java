@@ -2,6 +2,6 @@ class PrimeiroPrograma {
     public static void main(String[] args) {
         System.out.println("Meu primeiro programa em Java!");
 
-        System.out.println("Colaborador: Andrei");
+        System.out.println("Colaborador: Andrei Braga");
     }
 }
