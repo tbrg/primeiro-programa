@@ -13,5 +13,7 @@ class PrimeiroPrograma {
         System.out.println("Colaborador: Ismael Bortoluzzi");
 
         System.out.println("Colaborador: Alexandre Souza");
+        System.out.println("Colaborador: Daniel Pierrelus");
+        
     }
 }
