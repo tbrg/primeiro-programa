@@ -18,6 +18,7 @@ class PrimeiroPrograma {
 
         System.out.println("Colaborador: Otávio Pato");
 
-        
+        System.out.println("Colaborador: Gabriel Z. Salvi");
+
     }
 }
