@@ -23,5 +23,7 @@ class PrimeiroPrograma {
         System.out.println("Colaborador: Fernando Franceschet de Souza");
 
         System.out.println("Colaborador: Gustavo Terebinto");
+        
+        System.out.println("Colaborador: João Pedro da Rosa");
     }
 }
