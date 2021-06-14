@@ -32,6 +32,6 @@ class PrimeiroPrograma {
 
         System.out.println("Colaborador: Cristiano Antonio");
 
-         System.out.println("Colaborador: Alphonse Simeus");
+        System.out.println("Colaborador: Alphonse Simeus");
     }
 }
