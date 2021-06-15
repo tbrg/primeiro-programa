@@ -48,5 +48,7 @@ class PrimeiroPrograma {
 
         System.out.println("Colaborador: Vinycius Taglian Rodrigues");
 
+        System.out.println("Colaborador: Lucas Trentini Bordin");
+
     }
 }
