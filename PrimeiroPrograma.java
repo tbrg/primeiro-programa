@@ -52,5 +52,7 @@ class PrimeiroPrograma {
 
         System.out.println("Colaborador: Igor Radtke");
 
+        System.out.println("Colaborador: Teste");
+
     }
 }
