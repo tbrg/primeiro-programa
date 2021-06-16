@@ -50,5 +50,7 @@ class PrimeiroPrograma {
 
         System.out.println("Colaborador: Lucas Trentini Bordin");
 
+        System.out.println("Colaborador: Igor Radtke");
+
     }
 }
