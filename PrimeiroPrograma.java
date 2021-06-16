@@ -54,5 +54,6 @@ class PrimeiroPrograma {
 
         System.out.println("Colaborador: Larissa Mones Bedin");
 
+        System.out.println("Colaborador: Teste");
     }
 }
