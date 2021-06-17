@@ -62,7 +62,7 @@ class PrimeiroPrograma {
 
         System.out.println("Colaborador: Arthur ");
 
-        System.out.println("Colaborador: Andrew ");
+        System.out.println("Colaborador: Andrew Gabriel Gomes");
     }
     
 }
